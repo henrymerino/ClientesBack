@@ -1,0 +1,24 @@
+{
+	"sk_formato": [{
+			"beneficio": "Descuento1"
+		},
+		{
+			"beneficio": "Descuento2"
+		},
+		{
+			"beneficio": "Descuento3"
+		},
+		{
+			"beneficio": "Descuento4"
+		},
+		{
+			"beneficio": "Descuento5"
+		},
+		{
+			"beneficio": "Descuento6"
+		},
+		{
+			"beneficio": "Descuento7"
+		}
+	]
+}
